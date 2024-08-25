@@ -7,8 +7,6 @@
 ## * Centralized Information ;
 ## * Performance Tracking etc.
 
-<img src='https://raw.githubusercontent.com/alicapri02/ALI_ISMAIL/main/My%20DASHBOARD.png' />
-
 [![Watch the video](https://raw.githubusercontent.com/alicapri02/ALI_ISMAIL/main/My%20DASHBOARD.png)](https://www.youtube.com/watch?v=hO2GD4PdNGw)
 
 

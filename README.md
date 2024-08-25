@@ -9,10 +9,8 @@
 
 <img src='https://raw.githubusercontent.com/alicapri02/ALI_ISMAIL/main/My%20DASHBOARD.png' />
 
-<video width="320" height="240" autoplay muted loop>
-  <source src="https://www.youtube.com/watch?v=hO2GD4PdNGw" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://raw.githubusercontent.com/alicapri02/ALI_ISMAIL/main/My%20DASHBOARD.png)](https://www.youtube.com/watch?v=hO2GD4PdNGw)
+
 
 <img src='https://github.com/alicapri02/ALI_ISMAIL/blob/main/Sales%20Dashboard%202.png' />
 <img src='https://github.com/alicapri02/ALI_ISMAIL/blob/main/Call%20Center%20Dashboard.png' />
